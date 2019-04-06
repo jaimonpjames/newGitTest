@@ -2,6 +2,13 @@ Welcome to C tutorial
 
 C Variable 
 C Data Structures
+
+C Loops
+
+Thank you..
+
+i am done
+
 C operators
 
 Thank you..
