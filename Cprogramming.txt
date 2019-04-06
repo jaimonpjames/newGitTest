@@ -2,6 +2,8 @@ Welcome to C tutorial
 
 C Variable 
 C Data Structures
-
+C operators
 
 Thank you..
+
+done done
