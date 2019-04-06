@@ -2,3 +2,6 @@ Welcome to C tutorial
 
 C Variable 
 C Data Structures
+
+
+Thank you..
